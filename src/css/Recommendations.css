@@ -1,0 +1,64 @@
+/* Recommendations.css */
+
+.recommendations-container {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .recommendations-title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #343a40;
+  }
+  
+  .recommendations-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .recommendations-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #dee2e6;
+    color: #495057;
+  }
+  
+  .recommendations-item:last-child {
+    border-bottom: none;
+  }
+  
+  .recommendations-image {
+    width: 100px;
+    height: 75px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-right: 15px;
+  }
+  
+  .recommendations-details {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .recommendations-name {
+    font-size: 1.2em;
+    margin: 0;
+  }
+  
+  .recommendations-location {
+    font-size: 0.9em;
+    color: #6c757d;
+    margin: 5px 0;
+  }
+  
+  .recommendations-rating {
+    font-size: 1em;
+    color: #28a745;
+    margin-top: 5px;
+  }
+  

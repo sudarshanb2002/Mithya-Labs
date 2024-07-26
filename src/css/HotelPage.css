@@ -1,0 +1,35 @@
+/* src/css/HotelPage.css */
+.hotel-page {
+    padding: 20px;
+  }
+  
+  .hotel-page img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .hotel-page h2 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .hotel-page p {
+    margin: 5px 0;
+    color: #666;
+  }
+  
+  .hotel-page button {
+    margin-right: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .hotel-page button:hover {
+    background-color: #ddd;
+  }
+  

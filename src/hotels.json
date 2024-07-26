@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Hotel Sunshine",
+    "location": "New York",
+    "rating": 4.5,
+    "image": "/images/hotel3.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hotel Moonlight",
+    "location": "San Francisco",
+    "rating": 4.0,
+    "image": "/images/hotel2.jpg"
+  },{
+    "id": 3,
+    "name": "Hotel Tokiyo",
+    "location": "Tokiyo",
+    "rating": 4.0,
+    "image": "/images/hotel2.jpg"
+  },{
+    "id": 4,
+    "name": "Hotel Brazil",
+    "location": "Brazil",
+    "rating": 4.0,
+    "image": "/images/hotel2.jpg"
+  }
+]
